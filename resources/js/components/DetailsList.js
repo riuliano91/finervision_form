@@ -24,10 +24,10 @@ class DetailsList extends Component {
     <div className='row justify-content-center'>
       <div className='col-md-12'>
         <div className=''>
-          <div className='card-header'>All projects</div>
+          <div className='card-header'>All Details</div>
           <div className='card-body'>
             <Link className='btn btn-primary btn-sm mb-3' to='/create'>
-              Create new project
+              Fill out the form
             </Link>
             <table class="table table-hover">
 			  <thead>
